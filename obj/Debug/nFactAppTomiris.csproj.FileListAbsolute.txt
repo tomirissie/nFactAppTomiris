@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\bin\Debug\nFactAppTomiris.exe.config
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\bin\Debug\nFactAppTomiris.exe
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\bin\Debug\nFactAppTomiris.pdb
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.Form1.resources
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.Form2.resources
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.Properties.Resources.resources
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.csproj.GenerateResource.cache
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.exe
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\obj\Debug\nFactAppTomiris.pdb
+C:\Users\User\source\repos\nFactAppTomiris\nFactAppTomiris\bin\Debug\nFact.accdb
